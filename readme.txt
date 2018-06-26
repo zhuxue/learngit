@@ -6,6 +6,11 @@ yes
 是的
 ok
 haoma ni 
+haoma ni za zhe lo zhuxue
+助学是傻逼吗？
+yes
+是的
+ok
 zhuxue zhuxue zhuxeu 
 助学是傻逼吗？
 yes
