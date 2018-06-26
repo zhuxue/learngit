@@ -5,7 +5,7 @@ Git is free software
 yes
 是的
 ok
-haoma ni za zhe lo 
+haoma ni za z
 zhuxue zhuxue zhuxeu 
 助学是傻逼吗？
 yes
