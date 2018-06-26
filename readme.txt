@@ -4,3 +4,7 @@ Git is free software
 haoma ni za zhe lo 
 zhuxue zhuxue zhuxeu 
 Zhang san 与 喔喔喔偶偶
+助学是傻逼吗？
+yes
+是的
+ok
